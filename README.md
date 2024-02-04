@@ -6,13 +6,12 @@ To install dependencies:
 bun install
 ```
 
-To build client side:
 
 ```bash
 bun build.ts
 ```
 
-To build and run server:
+To build and run server and watch for changes:
 ```bash
 bun dev.ts
 ```
